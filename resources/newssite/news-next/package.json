@@ -12,13 +12,13 @@
     "dependencies": {
         "classnames": "^2.3.2",
         "eslint": "9.26.0",
-        "eslint-config-next": "15.0.0",
+        "eslint-config-next": "14.2.12",
         "http-server": "^14.1.1",
         "news-site-css": "file:../news-site-css",
-        "next": "15.5.10",
+        "next": "14.2.35",
         "react": "18.2.0",
         "react-dom": "18.2.0",
-        "react-router-dom": "^6.11.1",
+        "react-router-dom": "^6.30.2",
         "react-router-hash-link": "^2.4.3",
         "speedometer-utils": "../../shared",
         "uuid": "^9.0.0"
